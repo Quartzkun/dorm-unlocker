@@ -1,2 +1,2 @@
 # dorm-unlocker
-How to unlock the door of dormitory?
+How to unlock the dormitory door?
